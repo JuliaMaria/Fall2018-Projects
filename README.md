@@ -25,7 +25,7 @@ Presented on 10 May 2018
 |2 | TITLE | AUTHORS | [GitHub], [Website]|
 |3 | TITLE | AUTHORS | [GitHub], [Website]|
 |4 | TITLE | AUTHORS | [GitHub], [Website]|
-|5 | TITLE | AUTHORS | [GitHub], [Website]|
+|5 | Applications of Big Data techniques in particle physics | Julia May, Viviana Sandagorda Guaman, Daniel Pascual Sentíes, Manuel Hernández Nájera-Alesón  | https://github.com/vivianasandagordaguaman/applicationsbigdatatechniquesinparticlephysics , https://vivianasandagordaguaman.github.io/applicationsbigdatatechniquesinparticlephysics/Webpage/ |
 |6 | TITLE | AUTHORS | [GitHub], [Website]|
 |7 | TITLE | AUTHORS | [GitHub], [Website]|
 |8 | TITLE | AUTHORS | [GitHub], [Website]|
